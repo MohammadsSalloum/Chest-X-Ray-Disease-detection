@@ -59,6 +59,3 @@ This project aims to build a deep learning model that classifies chest X-ray ima
 
 > The model is very precise when predicting PNEUMONIA, but it misses some true pneumonia cases (moderate recall).  
 
----
-
-## 📂 Project Structure
